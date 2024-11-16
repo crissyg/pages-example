@@ -3,4 +3,4 @@
 ## first-level heading
 
 ## first-level heading
-![Sample image](/assets/img/image.jpg)
+![Sample image](/assets/images/image.jpg)
