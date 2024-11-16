@@ -1,4 +1,4 @@
-# ** This is an example of a webpage using GitHub Pages **
+# This is an example of a webpage using GitHub Pages
 
 ## first-level heading
 
