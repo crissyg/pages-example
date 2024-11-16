@@ -1,4 +1,4 @@
-# ** This is an example of a webpage using GitHub Pages **
+# ** Christina Gordon**
 
 ## first-level heading
 
