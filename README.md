@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# ** Christina Gordon**
-=======
 # This is an example of a webpage using GitHub Pages
->>>>>>> c23f8ef5afca1a819ce216936ddc1c121f1b4b9b
 
 ## first-level heading
 - All contents of this README.md will be display on the webpage.
