@@ -7,3 +7,6 @@
 
 ## first-level heading
 ![Sample image](/assets/images/image.jpg)
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
